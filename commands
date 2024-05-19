@@ -1,0 +1,11 @@
+git clone <repo>
+git status -s
+---file modify--
+git add <file>
+git status -s
+git diff --cached
+git reset HEAD <file>
+git status -s
+git add .
+git commit -m "message"
+git push
