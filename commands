@@ -9,3 +9,9 @@ git status -s
 git add .
 git commit -m "message"
 git push
+git checkout -b branchname
+<filemodify>
+git add .
+git commit -m "message"
+git push
+
